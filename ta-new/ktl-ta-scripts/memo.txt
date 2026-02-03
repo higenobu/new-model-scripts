@@ -1,0 +1,4 @@
+copy batch_predict.py from psych_model_scripts
+predict07.sh
+
+
