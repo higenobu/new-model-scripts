@@ -1,4 +1,4 @@
-TARGET_DIR='/home/alkalinemoe/psych_model_scripts/model'
+TARGET_DIR='tamodels-v2'
 
 # Model parameters
 MAX_LEN=256
