@@ -8,7 +8,7 @@ EPOCHS=4
 MODEL_NAME_PATH='nlp-waseda/roberta-base-japanese'
 
 # new data path
-DATA_PATH='/home/alkalinemoe/psych_model_scripts/data/new/news10000_final_data'
+DATA_PATH='data/new/news10000_final_data'
 
 # Data/Model download?
 
